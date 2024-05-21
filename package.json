@@ -1,0 +1,17 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Add todo List",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Farman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
